@@ -36,7 +36,7 @@ You can clone this repository and use it as a basis for your app, or use it to l
 	/karma.conf.js								// karma setup
 ```
 
-### Gup Tasks Helper
+### Gulp Tasks Helper
 #### Run tests and serve
 To run tests and then serve if the tests pass, run `gulp` (default task)
 
